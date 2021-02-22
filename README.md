@@ -43,6 +43,7 @@ Também realizei trabalho freelancer, como web design na criação de um site co
 
 | Cargo| Empresa | Período |
 | ------ | ------ |------ | 
+| Freelancer Web Design | Autônomo | 12/08/2020 - atualmente  | 
 | Web Design Jr | Agência Prospecta | 29/06/2020 - 12/08/2020 | 
 | Auxiliar de Suporte Técnico | Royal Face | 02/03/2020 - 02/04/2020 | 
 | Estagio em Desenvolvimento - Wordpress | Agência Otimize | 06/08/2019 - 15/12/2019 | 

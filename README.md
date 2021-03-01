@@ -6,18 +6,8 @@
 
 <p style="text-align: justify;">
 
-Meu nome é Gabriel Rodrigues Perez, sou tecnólogo em analise e desenvolviemento de sistemas pela FATEC. 
+Meu nome é Gabriel Rodrigues Perez, sou formado em analise e desenvolvimento de sistemas pela fatec e atualmente, estou a procura de uma oportunidade para atuar na area de  desenvolvimento frontend júnior. 
 
-Atualmente estou a procura de um cargo de desenvolvimento frontend júnior. 
-
-Além das linguagens de marcação e estilização como : HTML5, CSS3.
-
-Estou estudando muitas linguagens e frameworks de frontend e backend, entre elas estão:javascript vanilla, Framework React e posteriormente React-Native, PHP7, C#, .NET, dentre outras para conseguir novamente uma oportunidade.
-
-
-Em minha curta jornada, ja atuei como desenvolvedor frontend em agências de marketing digital da região do interior de SP - São José do Rio Preto, utilizando Wordpress para desenvolvimento de sites comerciais e institucionais, além de trabalhar também como auxiliar de suporte técnico em uma empresa de franqueados. 
-
-Também realizei trabalho freelancer, como web design na criação de um site comercial para rede de supermercado.
 </p>
 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Gabriel4420&show_icons=true&locale=en&=true&theme=dark" alt="Gabriel Rodrigues" /></p>

@@ -21,23 +21,15 @@ Também realizei trabalho freelancer, como web design na criação de um site co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel4420&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Linguagens, frameworks e ferramentas
+### Banco de dados mais utilizados
 
-* JavaScript
--- [node.js] 
--- [Express]
--- [React  ]
-* Ruby on Rail's
-* C#
--- [.NET Core]
-* PHP7
 * SQL
  -- [MySQL]
  -- [SQLServer]
  -- [Postgree]
 * NoSQL
  -- [MongoDB] 
-* GraphQL
+
 
 ### Experência profissional
 

@@ -4,9 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/)](https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel_rodrigues_perez@hotmail.com)](mailto:gabriel_rodrigues_perez@hotmail.com)
 
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Gabriel4420&show_icons=true&locale=en&=true&theme=dark" alt="Gabriel Rodrigues" /></p>
-
-<p style="text-align:justify;">
+<p style="text-align: justify;">
 
 Meu nome é Gabriel Rodrigues Perez, sou tecnólogo em analise e desenvolviemento de sistemas pela FATEC. 
 
@@ -22,6 +20,7 @@ Em minha curta jornada, ja atuei como desenvolvedor frontend em agências de mar
 Também realizei trabalho freelancer, como web design na criação de um site comercial para rede de supermercado.
 </p>
 
+<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Gabriel4420&show_icons=true&locale=en&=true&theme=dark" alt="Gabriel Rodrigues" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel4420&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

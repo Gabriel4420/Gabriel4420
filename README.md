@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/)](https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel_rodrigues_perez@hotmail.com)](mailto:gabriel_rodrigues_perez@hotmail.com)
 
+<p align="justify">
+
 Meu nome é Gabriel Rodrigues Perez, sou tecnólogo em analise e desenvolviemento de sistemas pela FATEC. 
 
 Atualmente estou a procura de um cargo de desenvolvimento frontend júnior. 
@@ -16,6 +18,7 @@ Estou estudando muitas linguagens e frameworks de frontend e backend, entre elas
 Em minha curta jornada, ja atuei como desenvolvedor frontend em agências de marketing digital da região do interior de SP - São José do Rio Preto, utilizando Wordpress para desenvolvimento de sites comerciais e institucionais, além de trabalhar também como auxiliar de suporte técnico em uma empresa de franqueados. 
 
 Também realizei trabalho freelancer, como web design na criação de um site comercial para rede de supermercado.
+</p>
 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Gabriel4420&show_icons=true&locale=en&=true&theme=dark" alt="Gabriel Rodrigues" /></p>
 

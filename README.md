@@ -54,5 +54,6 @@ Resumindo ...
 - ⚡ Estou estudando sobre como desenvolver softwares web de maneira moderna e agil. 
 - 🌱 Pretendo alcançar novos horizontes na jornada de desenvolvimento web e quem sabe ir para mobile
 - 🤔 Estou com dúvidas sobre qual stack de desenvolvimento devo seguir, se quiserem me dar algumas dicas, agradeço !!!
-- ⚡ Sou um cara bem tranquilo e organizado, gosto de tocar violão, jogar COD Mobile e Desenvolver. 
+- 😎 Sou um cara bem tranquilo e organizado, gosto de tocar violão, jogar COD Mobile e Desenvolver. 
 
+😎

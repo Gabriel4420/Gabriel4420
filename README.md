@@ -6,9 +6,21 @@
 
 <p style="text-align: justify;">
 
-Meu nome é Gabriel Rodrigues Perez, sou formado em analise e desenvolvimento de sistemas pela fatec e atualmente, estou a procura de uma oportunidade para atuar na area de  desenvolvimento frontend júnior. 
+Meu nome é Gabriel Rodrigues Perez, sou formado em analise e desenvolvimento de sistemas pela fatec.
 
+Acredito que sempre podemos ir além, basta ter 99% de transpiração e 1% de inspiração, como já dizia Einstein.
+
+Sou um grande entusiasta da tecnologia da informação e analise de sistemas, apesar de estar iniciando minha carreira profissional, eu já aprendi na raça, que para crescer na vida é preciso ralar e batalhar sempre.
+
+E nessa jornada louca e cheia de reviravoltas que é a vida, eu busco sempre evoluir no conhecimento e ajudar o máximo de pessoas que puder no meio do caminho.
 </p>
+
+Resumindo ...
+
+- 🔭 Atualmente estou em busca de uma oportunidade de emprego para desenvolvimento Frontend Jr. 
+- ⚡ Estou estudando sobre como desenvolver softwares web de maneira moderna e agil. 
+- 🌱 Pretendo alcançar novos horizontes na jornada de desenvolvimento web e quem sabe ir para mobile
+- 😎 Sou um cara bem tranquilo e organizado, gosto de tocar violão, jogar COD Mobile e Desenvolver. 
 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Gabriel4420&show_icons=true&locale=en&=true&theme=dark" alt="Gabriel Rodrigues" /></p>
 
@@ -35,9 +47,3 @@ Meu nome é Gabriel Rodrigues Perez, sou formado em analise e desenvolvimento de
 | Auxiliar de Suporte Técnico | Royal Face | 02/03/2020 - 02/04/2020 | 
 | Estagio em Desenvolvimento - Wordpress | Agência Otimize | 06/08/2019 - 15/12/2019 | 
 
-Resumindo ...
-
-- 🔭 Atualmente estou em busca de uma oportunidade de emprego para desenvolvimento Frontend Jr. 
-- ⚡ Estou estudando sobre como desenvolver softwares web de maneira moderna e agil. 
-- 🌱 Pretendo alcançar novos horizontes na jornada de desenvolvimento web e quem sabe ir para mobile
-- 😎 Sou um cara bem tranquilo e organizado, gosto de tocar violão, jogar COD Mobile e Desenvolver. 

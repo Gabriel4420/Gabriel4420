@@ -20,13 +20,13 @@ Resumindo ...
 - 🔭 Atualmente estou em busca de uma oportunidade de emprego para desenvolvimento Frontend Jr. 
 - ⚡ Estou estudando sobre como desenvolver softwares web de maneira moderna e agil. 
 - 🌱 Pretendo alcançar novos horizontes na jornada de desenvolvimento web e quem sabe ir para mobile
-- 😎 Sou um cara bem tranquilo e organizado, gosto de tocar violão, jogar COD Mobile e Desenvolver. 
+
 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Gabriel4420&show_icons=true&locale=en&=true&theme=dark" alt="Gabriel Rodrigues" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel4420&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gabriel4420g&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gabriel4420g&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 
 
 

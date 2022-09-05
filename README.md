@@ -26,6 +26,9 @@ Resumindo ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel4420&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-profile-trophy.vercel.app/?username=Gabriel4420g&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+
+
 
 
 ### Banco de dados mais utilizados

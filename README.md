@@ -33,12 +33,12 @@ Resumindo ...
 
 ### Banco de dados mais utilizados
 
-* SQL
- -- [MySQL]
- -- [SQLServer]
- -- [Postgree]
-* NoSQL
- -- [MongoDB] 
+✅ SQL
+ 🟢 [MySQL]
+ 🟢 [SQLServer]
+ 🟢 [Postgree]
+✅ NoSQL
+ 🟢 [MongoDB] 
 
 
 ### Experência profissional

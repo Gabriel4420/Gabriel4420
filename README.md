@@ -45,9 +45,10 @@ Resumindo ...
 
 | Cargo| Empresa | Período |
 | ------ | ------ |------ | 
-| Desenvolvedor frontend Jr | NTH | 05/06/2021 - atualmente  | 
-| Freelancer Web Design | Autônomo | 12/08/2020 - atualmente  | 
-| Web Design Jr | Agência Prospecta | 29/06/2020 - 12/08/2020 | 
-| Auxiliar de Suporte Técnico | Royal Face | 02/03/2020 - 02/04/2020 | 
-| Estagio em Desenvolvimento - Wordpress | Agência Otimize | 06/08/2019 - 15/12/2019 | 
+| Desenvolvedor frontend Jr | Clubfood | 09/2022 -  atualmente | 
+| Desenvolvedor frontend Jr | NTH | 06/2021 -  03/2022  | 
+| Freelancer Web Design | Autônomo | 08/2020 - atualmente  | 
+| Web Design Jr | Agência Prospecta | 06/2020 - 08/2020 | 
+| Auxiliar de Suporte Técnico | Royal Face | 03/2020 - 04/2020 | 
+| Estagio em Desenvolvimento - Wordpress | Agência Otimize | 08/2019 - 12/2019 | 
 

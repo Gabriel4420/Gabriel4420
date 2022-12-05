@@ -37,6 +37,7 @@ Resumindo ...
  🟢 [MySQL]
  🟢 [SQLServer]
  🟢 [Postgree]
+ <br/>
 ✅ NoSQL
  🟢 [MongoDB] 
 

@@ -22,7 +22,7 @@ Resumindo ...
 - 🌱 Pretendo alcançar novos horizontes na jornada de desenvolvimento web e quem sabe ir para mobile
 <br/>
 
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Gabriel4420&show_icons=true&locale=en&=true&theme=dark" alt="Gabriel Rodrigues" /></p>
+<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Gabriel4420&show_icons=true&theme=radical" alt="Gabriel Rodrigues" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel4420&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

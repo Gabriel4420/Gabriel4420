@@ -17,7 +17,7 @@ E nessa jornada louca e cheia de reviravoltas que é a vida, eu busco sempre evo
 
 Resumindo ...
 
-- 🔭 Atualmente estou em busca de uma oportunidade de emprego para desenvolvimento Frontend Jr. 
+- 🔭 Atualmente estou atuando como desenvolvedor Fullstack Jr. 
 - ⚡ Estou estudando sobre como desenvolver softwares web de maneira moderna e agil. 
 - 🌱 Pretendo alcançar novos horizontes na jornada de desenvolvimento web e quem sabe ir para mobile
 <br/>
@@ -46,7 +46,7 @@ Resumindo ...
 
 | Cargo| Empresa | Período |
 | ------ | ------ |------ | 
-| Desenvolvedor frontend Jr | Clubfood | 09/2022 -  atualmente | 
+| Desenvolvedor fullstack Jr | Clubfood | 09/2022 -  atualmente | 
 | Desenvolvedor frontend Jr | NTH | 06/2021 -  03/2022  | 
 | Freelancer Web Design | Autônomo | 08/2020 - atualmente  | 
 | Web Design Jr | Agência Prospecta | 06/2020 - 08/2020 | 

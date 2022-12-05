@@ -20,7 +20,7 @@ Resumindo ...
 - 🔭 Atualmente estou em busca de uma oportunidade de emprego para desenvolvimento Frontend Jr. 
 - ⚡ Estou estudando sobre como desenvolver softwares web de maneira moderna e agil. 
 - 🌱 Pretendo alcançar novos horizontes na jornada de desenvolvimento web e quem sabe ir para mobile
-
+<br/>
 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=Gabriel4420&show_icons=true&locale=en&=true&theme=dark" alt="Gabriel Rodrigues" /></p>
 

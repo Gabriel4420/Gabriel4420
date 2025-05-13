@@ -46,7 +46,7 @@ Resumindo ...
 
 | Cargo| Empresa | Período |
 | ------ | ------ |------ | 
-| Desenvolvedor fullstack Jr | Clubfood | 09/2022 -  atualmente | 
+| Desenvolvedor fullstack Jr | Clubfood | 09/2022 -  01/2023 | 
 | Desenvolvedor frontend Jr | NTH | 06/2021 -  03/2022  | 
 | Freelancer Web Design | Autônomo | 08/2020 - atualmente  | 
 | Web Design Jr | Agência Prospecta | 06/2020 - 08/2020 | 
